@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-node-and-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "clake": "^1.0.1",
+    "debug": "^4.1.1"
+  }
+}
